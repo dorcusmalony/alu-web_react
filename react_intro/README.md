@@ -1,7 +1,7 @@
 # React intro
 
 ## Resources
-### Read or watch:
+### Read or watch Thises reources:
 
 - [React Official Website](https://intranet.aluswe.com/rltoken/cUzK3uxyjnMHo-DYU1BT7g)
 - [Getting started with React](https://intranet.aluswe.com/rltoken/h7pqDBTIkkMhfPnM0usttg)
